@@ -1,7 +1,7 @@
 # vuehello
 
 ## Features
-- [x] Vue editor
+- [x] Vue editor [示例样式](https://github.com/colynn-demo/vuehello/blob/master/assets/editor01.png)
 
 ## Project setup
 ```
