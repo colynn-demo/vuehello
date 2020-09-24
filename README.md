@@ -1,4 +1,7 @@
-# hello
+# vuehello
+
+## Features
+- [x] Vue editor
 
 ## Project setup
 ```
